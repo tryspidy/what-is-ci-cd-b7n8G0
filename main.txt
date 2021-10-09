@@ -1,0 +1,19 @@
+WHAT IS CI/CD PIPELINE
+Pipeline is a set of processes that take 
+the code from version control and build,
+compile, test and deploy to production
+in automated fashion. The pipeline breaks
+down the software delivery process into stages.
+Each stage is made of different tasks
+which can be carried out in parallel.
+When all tasks in a stage passes, 
+next stage is triggered.
+The CI/CD pipeline is one of the best 
+practices for DevOps teams to implement,
+for delivering code changes more frequently and reliably.
+
+MAIN GOAL OF THE CI/CD is providing 
+shorter release cycle. So, end users 
+can get new version of application
+with new features of fixed bugs and
+better application.
